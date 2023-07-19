@@ -1,0 +1,3 @@
+# AyurConnect Service 1
+[![Build and Test](https://github.com/FYRP-2023/AyurConnect-Service-1/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/FYRP-2023/AyurConnect-Service-1/actions/workflows/build_and_test.yml)
+[![Deployment](https://github.com/FYRP-2023/AyurConnect-Service-1/actions/workflows/deployment.yml/badge.svg)](https://github.com/FYRP-2023/AyurConnect-Service-1/actions/workflows/deployment.yml)
